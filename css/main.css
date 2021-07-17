@@ -54,7 +54,7 @@ a {
 	margin: 0px;
   background: red;
   padding: 5px;
-  border-right: 3px;
+  border-radius: 3px;
 }
 a:focus {
 	outline: none !important;
